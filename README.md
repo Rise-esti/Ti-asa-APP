@@ -1,16 +1,17 @@
-# myapp
+# Ti-asa Application
 
-A new Flutter project.
+Ceci est un debut de l'application officielle ti-asa
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## Introduction
 
-A few resources to get you started if this is your first Flutter project:
+De nos jours, les smartphones sont indispensable dans la vie de l'homme,
+  c'est pourquoi une version mobile du site web : https://ti-asa.esti.mg est en cours de maintenance.
+  
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Pour être à jour et suivre l'actualité de ti-asa:
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- [Cliquer ici pour voir notre blo](https://rise-esti.github.com)
+- [Voir directement sur le site Web](https://ti-asa.esti.mg)
+
+
