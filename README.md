@@ -11,7 +11,7 @@ De nos jours, les smartphones sont indispensable dans la vie de l'homme,
 
 Pour être à jour et suivre l'actualité de ti-asa:
 
-- [Cliquer ici pour voir notre blo](https://rise-esti.github.io)
+- [Cliquer ici pour voir notre blog](https://rise-esti.github.io)
 - [Voir directement sur le site Web](https://ti-asa.esti.mg)
 
 
