@@ -48,7 +48,7 @@ class _Home extends State<Home>{
         color: Colors.teal,
         height:  MediaQuery.of(context).size.height / 2,
         width: 4 * MediaQuery.of(context).size.width / 5,
-        margin: EdgeInsets.only(bottom: MediaQuery.of(context).size.height / 4, top: MediaQuery.of(context).size.height / 4  ,
+        margin: EdgeInsets.only(top: MediaQuery.of(context).size.height / 12  ,
           right: MediaQuery.of(context).size.width / 10, left: MediaQuery.of(context).size.width / 10
         ),
 
